@@ -18,6 +18,7 @@
 		CB91F4AD290196F5007AB6B0 /* SampleWidget.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB91F4AC290196F5007AB6B0 /* SampleWidget.swift */; };
 		CB91F4AF290196F6007AB6B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB91F4AE290196F6007AB6B0 /* Assets.xcassets */; };
 		CB91F4B3290196F6007AB6B0 /* SampleWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = CB91F4A3290196F5007AB6B0 /* SampleWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		CB91F4B8290197A9007AB6B0 /* EntryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB91F49D290192B1007AB6B0 /* EntryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -252,6 +253,7 @@
 			files = (
 				CB91F4AB290196F5007AB6B0 /* SampleWidgetBundle.swift in Sources */,
 				CB91F4AD290196F5007AB6B0 /* SampleWidget.swift in Sources */,
+				CB91F4B8290197A9007AB6B0 /* EntryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
