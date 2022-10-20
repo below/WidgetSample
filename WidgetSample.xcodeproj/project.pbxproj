@@ -84,6 +84,7 @@
 		CB91F4832901929E007AB6B0 = {
 			isa = PBXGroup;
 			children = (
+				CB91F4B9290197F1007AB6B0 /* Shared */,
 				CB91F48E2901929E007AB6B0 /* WidgetSample */,
 				CB91F4A9290196F5007AB6B0 /* SampleWidget */,
 				CB91F4A4290196F5007AB6B0 /* Frameworks */,
@@ -105,7 +106,6 @@
 			children = (
 				CB91F48F2901929E007AB6B0 /* WidgetSampleApp.swift */,
 				CB91F4912901929E007AB6B0 /* ContentView.swift */,
-				CB91F49D290192B1007AB6B0 /* EntryView.swift */,
 				CB91F4932901929F007AB6B0 /* Assets.xcassets */,
 				CB91F4952901929F007AB6B0 /* Preview Content */,
 			);
@@ -138,6 +138,14 @@
 				CB91F4B0290196F6007AB6B0 /* Info.plist */,
 			);
 			path = SampleWidget;
+			sourceTree = "<group>";
+		};
+		CB91F4B9290197F1007AB6B0 /* Shared */ = {
+			isa = PBXGroup;
+			children = (
+				CB91F49D290192B1007AB6B0 /* EntryView.swift */,
+			);
+			path = Shared;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
